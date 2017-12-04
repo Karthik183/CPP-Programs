@@ -1,0 +1,11 @@
+Filesystem     1K-blocks      Used Available Use% Mounted on
+udev             4020520         0   4020520   0% /dev
+tmpfs             808560     18020    790540   3% /run
+/dev/sda10     210832792 189683500  10416492  95% /
+tmpfs            4042780     26320   4016460   1% /dev/shm
+tmpfs               5120         4      5116   1% /run/lock
+tmpfs            4042780         0   4042780   0% /sys/fs/cgroup
+/dev/sda1         507904     55812    452092  11% /boot/efi
+tmpfs             808560       180    808380   1% /run/user/1000
+/dev/sda7      264588284 202478024  62110260  77% /media/karthik/New Volume
+/dev/sda5      483607548 243551948 240055600  51% /media/karthik/OS
